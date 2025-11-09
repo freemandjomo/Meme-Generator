@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MEME Generator</title>
+  <link rel="stylesheet" href="meme.css">
+  <!-- Font Awesome für Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <!-- jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <!-- html2canvas -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+  <script src="meme.js"></script>
+</head>
+<body>
+  <div id="main">  
+    <textarea id="upper" spellcheck="false" placeholder="type upper part here!" rows="1"></textarea>
+
+    <div id="meme">
+      <img src="" alt="img" id="img">
+      <div id="text-top" class="meme-text"></div>
+      <div id="text-bottom" class="meme-text"></div>
+      <h2 id="hint">Your meme image should be here...</h2>
+    </div>  
+
+    <textarea id="lower" spellcheck="false" placeholder="type lower part here!" rows="1"></textarea>
+  </div>    
+
+  <div class="access">
+    <input type="file" id="input" accept="image/*" name="meme">
+    <label for="input" class="btn"><i class="fa fa-upload"></i> Upload Image</label>
+    <button id="refresh" class="btn"><i class="fa fa-refresh"></i> Refresh</button>
+    <button id="btn-generate" class="btn"><i class="fa fa-cog"></i> Generate</button> 
+    <a id="downloads" class="btn" style="display:none"><i class="fa fa-download"></i> Download</a>
+  </div>
+</body>
+</html>
