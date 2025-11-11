@@ -5,15 +5,15 @@ With just a few clicks, you can upload your own image, add two custom text lines
 
 ## ✅ Features
 
-Image Upload: Use any image from your device
+- Image Upload: Use any image from your device
 
-Two Text Fields: For top and bottom meme captions
+- Two Text Fields: For top and bottom meme captions
 
-Automatic Meme Styling: Classic Impact-style text with white fill and black outline
+- Automatic Meme Styling: Classic Impact-style text with white fill and black outline
 
-Real-Time Preview: The final meme is rendered instantly on an HTML5 canvas
+- Real-Time Preview: The final meme is rendered instantly on an HTML5 canvas
 
-Pure Frontend Project: No frameworks, no backend—just HTML, CSS, and JavaScript
+- Pure Frontend Project: No frameworks, no backend—just HTML, CSS, and JavaScript
 
 ## 🎯 Project Goal
 
