@@ -1,6 +1,6 @@
 # ✨ Meme Generator – Create Your Own Memes in Seconds
 
-![Meme Preview](./meme (13).png)
+![Meme Preview](./meme%20%2813%29.png)
 
 ## A modern, user-friendly meme generator that runs entirely in your browser.
 With just a few clicks, you can upload your own image, add two custom text lines, and instantly see your finished meme—no additional software or external tools required.
