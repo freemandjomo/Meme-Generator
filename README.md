@@ -1,4 +1,4 @@
-# ✨ Meme Generator – Create Your Own Memes in Seconds
+# ✨ Meme Generator – Create Your Own Memes in just few Seconds
 
 ![Meme Preview](./meme%20%2813%29.png)
 
