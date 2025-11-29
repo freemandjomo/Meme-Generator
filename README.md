@@ -5,7 +5,7 @@
 ## A modern, user-friendly meme generator that runs entirely in your browser.
 With just a few clicks, you can upload your own image, add two custom text lines, and instantly see your finished meme—no additional software or external tools required.
 
-## ✅ Features
+## Features
 
 - Image Upload: Use any image from your device
 
