@@ -22,4 +22,4 @@ With just a few clicks, you can upload your own image, add two custom text lines
 This project demonstrates how to build a simple yet fun web tool using HTML5 Canvas, JavaScript, and basic DOM interactions.
 It serves as a perfect learning resource or a foundation for expanding into a more advanced meme editor.
 
-# Author : MERVEILLES FREEMAN DJOMO TOUKA 
+# Author : MERVEILLES FREEMAN    DJOMO TOUKA 
