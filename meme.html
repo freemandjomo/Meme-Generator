@@ -21,10 +21,34 @@
       <img src="" alt="img" id="img">
       <div id="text-top" class="meme-text"></div>
       <div id="text-bottom" class="meme-text"></div>
-      <h2 id="hint">Your meme image should be here...</h2>
+      <h2 id="hint">Your meme image should be here...<br><small>Drag & Drop an image or click Upload</small></h2>
     </div>  
 
     <textarea id="lower" spellcheck="false" placeholder="type lower part here!" rows="1"></textarea>
+
+    <!-- Styling Controls -->
+    <div class="controls">
+      <div class="control-group">
+        <label for="text-color">
+          <i class="fa fa-paint-brush"></i> Text Color:
+          <input type="color" id="text-color" value="#ffffff">
+        </label>
+        <label for="stroke-color">
+          <i class="fa fa-circle-o"></i> Outline:
+          <input type="color" id="stroke-color" value="#000000">
+        </label>
+      </div>
+      <div class="control-group">
+        <label for="font-size">
+          <i class="fa fa-text-height"></i> Font Size: <span id="font-size-value">40</span>px
+          <input type="range" id="font-size" min="20" max="80" value="40">
+        </label>
+        <label for="text-shadow" class="checkbox-label">
+          <input type="checkbox" id="text-shadow" checked>
+          <i class="fa fa-adjust"></i> Text Shadow
+        </label>
+      </div>
+    </div>
   </div>    
 
   <div class="access">
