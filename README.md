@@ -192,7 +192,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ![Meme Generator Interface](https://via.placeholder.com/800x600?text=Add+Your+Screenshot+Here)
 
 ### Customization Options
-![Customization Panel](https://via.placeholder.com/800x400?text=Add+Your+Screenshot+Here)
+![Customization Panel](https://github.com/freemandjomo/Meme-Generator/blob/main/meme(1).png)
 
 ---
 
