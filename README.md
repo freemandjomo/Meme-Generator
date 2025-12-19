@@ -92,7 +92,7 @@ A modern, feature-rich web-based meme generator with an intuitive interface and 
 - **html2canvas 1.4.1**: Canvas-based image rendering
 - **Font Awesome 4.7**: Icons for UI elements
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Meme-Generator/
