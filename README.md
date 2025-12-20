@@ -198,4 +198,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ⭐ **Star this repo** if you find it useful!
 
-Made with ❤️ by Freeman Djomo
+Made by Freeman
