@@ -174,7 +174,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-** Merveilles Freeman Djomo Touka**
+*Merveilles Freeman Djomo Touka*
 
 - GitHub: [@freemandjomo](https://github.com/freemandjomo)
 - Repository: [Meme-Generator](https://github.com/freemandjomo/Meme-Generator)
