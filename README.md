@@ -189,7 +189,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📸 Screenshots
 
 ### Main Interface
-![Meme Generator Interface]()
+![Meme Generator Interface](https://github.com/freemandjomo/Meme-Generator/blob/master/Screenshot%202025-12-10%20134809.png)
 
 ### Customization Options
 ![Customization Panel](https://github.com/freemandjomo/Meme-Generator/blob/master/Screenshot%202025-11-09%20125442.png)
