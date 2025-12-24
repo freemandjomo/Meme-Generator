@@ -189,10 +189,10 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📸 Screenshots
 
 ### Main Interface
-![Meme Generator Interface](https://github.com/freemandjomo/Meme-Generator/blob/master/Screenshot%202025-11-09%20125442.png)
+![Meme Generator Interface]()
 
 ### Customization Options
-![Customization Panel](https://github.com/freemandjomo/Meme-Generator/blob/main/meme(1).png)
+![Customization Panel](https://github.com/freemandjomo/Meme-Generator/blob/master/Screenshot%202025-11-09%20125442.png)
 
 ---
 
