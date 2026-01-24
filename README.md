@@ -1,4 +1,4 @@
-# 🎨 Meme Generator.
+# 🎨 Meme Generator
 
 A modern, feature-rich web-based meme generator with an intuitive interface and powerful customization options.
 
