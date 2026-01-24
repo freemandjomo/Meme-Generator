@@ -83,7 +83,7 @@ A modern, feature-rich web-based meme generator with an intuitive interface and 
 5. **Start Over**
    - Click "Refresh" to reset all settings and start fresh
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used.
 
 - **HTML5**: Semantic markup structure
 - **CSS3**: Modern styling with gradients, flexbox, and animations
